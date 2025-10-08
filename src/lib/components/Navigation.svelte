@@ -7,6 +7,7 @@
 		<li><a href="/">Home</a></li>
 		<li><a href="/about">About us</a></li>
 		<li><a href="/comment-section">Comments</a></li>
+		<li><a href="/blog">My Awesome Blog</a></li>
 	</ul>
 </nav>
 
